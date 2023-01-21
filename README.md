@@ -9,3 +9,7 @@ https://iamzenju.github.io/SoonPage-HTML-V1/ZGW-Soon-HTML/
 
 ## Zenju SoftWorks - Launching Soon Page 🚀
 https://iamzenju.github.io/SoonPage-HTML-V1/ZSW-Soon-HTML/
+
+#### ETC Projects
+## SugoXpress - App Launching Soon Page 🚀
+https://iamzenju.github.io/SoonPage-HTML-V1/SX-Soon-HTML/
