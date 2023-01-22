@@ -2,14 +2,14 @@
 #### Basic Coming Soon Page In HTML
 
 ## IAMZenju - Launching Soon Page 🚀
-https://iamzenju.github.io/SoonPage-HTML-V1/IAMZenju-Soon-HTML/
+[IAMZenju-Soon-HTML](https://iamzenju.github.io/SoonPage-HTML-V1/IAMZenju-Soon-HTML/)
 
 ## Zenju GameWorks - Launching Soon Page 🚀
-https://iamzenju.github.io/SoonPage-HTML-V1/ZGW-Soon-HTML/
+[ZGW-Soon-HTML](https://iamzenju.github.io/SoonPage-HTML-V1/ZGW-Soon-HTML/)
 
 ## Zenju SoftWorks - Launching Soon Page 🚀
-https://iamzenju.github.io/SoonPage-HTML-V1/ZSW-Soon-HTML/
+[ZSW-Soon-HTML](https://iamzenju.github.io/SoonPage-HTML-V1/ZSW-Soon-HTML/)
 
 #### ETC Projects
 ## SugoXpress - App Launching Soon Page 🚀
-https://iamzenju.github.io/SoonPage-HTML-V1/SX-Soon-HTML/
+[SX-Soon-HTML](https://iamzenju.github.io/SoonPage-HTML-V1/SX-Soon-HTML/)
